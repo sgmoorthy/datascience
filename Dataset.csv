@@ -1,4 +1,4 @@
-Client_id,Client_Name,Carrier_id,Carrier_name,Product_id,Submission,Quote,Mscore
+Client_id,Client,Carrier_id,Carrier,Product_id,Submission,Quote,Mscore
 3068,"3 Round Stones, Inc.",3562,Vital Axiom ,102,5,3,8
 3069,48 Factoring Inc.,3563,VitalChek,101,2,0,0
 3070,5PSolutions,3564,Vitals,101,2,0,0
